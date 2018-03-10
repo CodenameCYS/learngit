@@ -6,4 +6,6 @@ then I change something in branch01.
 it seems even with no-ff, it will still result in some conflict.
 and after I changed the file in master tree, it won't copy to branch01.
 
-now I return branch01 to do some change.
+now I return to branch01 to do some change.
+
+now I return to master tree to do some change.
