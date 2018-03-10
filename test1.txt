@@ -1,3 +1,6 @@
 this is for branch management testing.
 
 now I have merge it into master tree.
+then I change something in branch01.
+
+it seems even with no-ff, it will still result in some conflict.
