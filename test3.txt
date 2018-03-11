@@ -3,3 +3,5 @@ try to test multi-documents add in same time.
 this is for the test of the conflict between branch and master tree.
 
 assume there is a bug 404.
+
+I fixed this bug in issue_404.
